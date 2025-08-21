@@ -16,4 +16,10 @@ public class TestController {
     public String getMessage() {
         return "Second message from AWS Ecs";
     }
+    
+    @GetMapping("/getName")
+    public String getName() {
+        return "My Name is Wonder";
+    }   
+    
 }
