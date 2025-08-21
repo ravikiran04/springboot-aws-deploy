@@ -1,4 +1,4 @@
-package com.example.springboot_aws_deploy;
+package com.example.springbootawsdeploy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

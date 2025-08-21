@@ -1,4 +1,4 @@
-package com.example.springboot_aws_deploy;
+package com.example.springbootawsdeploy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
